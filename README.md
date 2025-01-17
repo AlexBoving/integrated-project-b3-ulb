@@ -1,4 +1,4 @@
-# Integrated Project: Autonomous Car Commanded by Sound Commands
+# Integrated Project: Autonomous Car Path Correction by Sound Commands
 
 This project focuses on designing and implementing a system for a miniature autonomous car that responds to sound commands for redirection correction. The system uses an analog-digital audio converter to process sound signals, enabling the car to implement corrections to guided movements autonomously.
 
